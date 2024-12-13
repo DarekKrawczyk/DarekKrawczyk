@@ -30,33 +30,33 @@ I work extensively with C# in both .NET and the .NET Framework, primarily develo
 - ### .NET
 <div align="left">
     <a href="https://github.com/DarekKrawczyk/ElectroDepot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarekKrawczyk&repo=ElectroDepot" alt="ElectroDepot" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarekKrawczyk&repo=ElectroDepot&theme=transparent" alt="ElectroDepot" />
     </a>
 </div>
 
  - ### Embedded
 <div align="left">
     <a href="https://github.com/DarekKrawczyk/RPi-Pico-Logger">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarekKrawczyk&repo=RPi-Pico-Logger" alt="RPi-Pico-Logger" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarekKrawczyk&repo=RPi-Pico-Logger&theme=transparent" alt="RPi-Pico-Logger" />
     </a>
     <a href="https://github.com/DarekKrawczyk/Si7021">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarekKrawczyk&repo=Si7021" alt="Si7021" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarekKrawczyk&repo=Si7021&theme=transparent" alt="Si7021" />
     </a>
     <a href="https://github.com/DarekKrawczyk/BMP280">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarekKrawczyk&repo=BMP280" alt="BMP280" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarekKrawczyk&repo=BMP280&theme=transparent" alt="BMP280" />
     </a>
 </div>
 
 - ### University Related
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/DarekKrawczyk/MastersThesis" style="padding-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarekKrawczyk&repo=MastersThesis" alt="MastersThesis" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarekKrawczyk&repo=MastersThesis&theme=transparent" alt="MastersThesis" />
   </a>
 </div>
 
 - ### Other
 <div align="left">
     <a href="https://github.com/DarekKrawczyk/JustWalk">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarekKrawczyk&repo=JustWalk" alt="JustWalk" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarekKrawczyk&repo=JustWalk&theme=transparent" alt="JustWalk" />
     </a>
 </div>
