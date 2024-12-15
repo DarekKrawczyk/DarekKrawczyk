@@ -5,8 +5,12 @@ I work extensively with C# in both .NET and the .NET Framework, primarily develo
 
 ## Curriculum vitae
 <details>
-  <summary>Show</summary>
-  <img src="CV_Dariusz_Krawczyk_Eng.jpg" alt="CV" width="100%" height="auto">
+  <summary>English</summary>
+  <img src="CV_Dariusz_Krawczyk_ENG.jpg" alt="CV" width="100%" height="auto">
+</details>
+<details>
+  <summary>Polish</summary>
+  <img src="CV_Dariusz_Krawczyk_POL.jpg" alt="CV" width="100%" height="auto">
 </details>
 
 ---
