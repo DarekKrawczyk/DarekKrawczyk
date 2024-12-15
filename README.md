@@ -6,10 +6,10 @@ I work extensively with C# in both .NET and the .NET Framework, primarily develo
 ## Curriculum vitae
 <details>
   <summary>Show</summary>
-  <iframe src="CV_Dariusz_Krawczyk_Eng.pdf" width="100%" height="600px">
+  <embed  src="CV_Dariusz_Krawczyk_Eng.pdf" width="100%" height="600px">
     This browser does not support PDFs. Please download the PDF to view it: 
     <a href="CV_Dariusz_Krawczyk_Eng.pdf">Download PDF</a>
-</iframe>
+</embed>
 </details>
 
 ---
