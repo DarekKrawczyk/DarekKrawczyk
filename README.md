@@ -6,34 +6,6 @@ I consistently develop my skills in `.NET` technology, with a particular focus o
 
 # Technologies
 <div style="display: flex; flex-wrap: wrap;">
-  <img alt="C#" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
-  <img alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img alt="DotNetCore" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-  <img alt="DotNet" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" 
-  width="40px" style="padding-right:10px;" alt="EntityFramework"/>
-  <img alt="SQLDatabase" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img alt="SQLLite" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cosmosdb/cosmosdb-original.svg" 
-  width="40px" style="padding-right:10px;" alt="CosmosDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-  width="40px" style="padding-right:10px;" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" 
-  width="40px" style="padding-right:10px;" alt="RabbitMQ"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
-  width="40px" style="padding-right:10px;" alt="Postman"/>
-  <img alt="Swagger" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
-  <img alt="BitBucket" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg" />
-  <img alt="VS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
-  width="40px" style="padding-right:10px;" alt="Azure"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-  width="40px" style="padding-right:10px;" alt="Java"/>
-</div>
-
-<br>
-
-<div style="display: flex; flex-wrap: wrap;">
   <img src="Assets/C.svg" width=48px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
   <img src="Assets/Cpp.svg" width=48px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
   <img src="Assets/DOTNET.svg" width=48px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
@@ -50,7 +22,9 @@ I consistently develop my skills in `.NET` technology, with a particular focus o
   <img src="Assets/VisualStudio.svg" width=48px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
 </div>
 
-# Repositories worth mentioning
+<br>
+
+# Projects worth mentioning
 ## Homee System
 <div align="left">
       <a href="https://github.com/HomeeSys/Server">
