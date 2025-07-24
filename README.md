@@ -32,6 +32,7 @@ I consistently develop my skills in `.NET` technology, with a particular focus o
 </div>
 
 <br>
+<br>
 
 # Repositories worth mentioning
 ## Homee System
