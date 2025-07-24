@@ -34,20 +34,20 @@ I consistently develop my skills in `.NET` technology, with a particular focus o
 <br>
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="Assets/C.svg" width=64px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
-  <img src="Assets/Cpp.svg" width=64px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
-  <img src="Assets/DOTNET.svg" width=64px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
-  <img src="Assets/NetCore.svg" width=64px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
-  <img src="Assets/NetMVC.svg" width=64px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
-  <img src="Assets/Azure.svg" width=64px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
-  <img src="Assets/SQL.svg" width=64px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
-  <img src="Assets/SQLite.svg" width=64px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
-  <img src="Assets/CosmosDB.svg" width=64px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
-  <img src="Assets/Docker.svg" width=64px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
-  <img src="Assets/RabbitMQ.svg" width=64px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
-  <img src="Assets/Postman.svg" width=64px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
-  <img src="Assets/Swagger.svg" width=64px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
-  <img src="Assets/VisualStudio.svg" width=64px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
+  <img src="Assets/C.svg" width=48px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
+  <img src="Assets/Cpp.svg" width=48px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
+  <img src="Assets/DOTNET.svg" width=48px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
+  <img src="Assets/NetCore.svg" width=48px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
+  <img src="Assets/NetMVC.svg" width=48px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
+  <img src="Assets/Azure.svg" width=48px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
+  <img src="Assets/SQL.svg" width=48px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
+  <img src="Assets/SQLite.svg" width=48px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
+  <img src="Assets/CosmosDB.svg" width=48px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
+  <img src="Assets/Docker.svg" width=48px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
+  <img src="Assets/RabbitMQ.svg" width=48px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
+  <img src="Assets/Postman.svg" width=48px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
+  <img src="Assets/Swagger.svg" width=48px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
+  <img src="Assets/VisualStudio.svg" width=48px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
 </div>
 
 # Repositories worth mentioning
