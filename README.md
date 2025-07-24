@@ -2,6 +2,8 @@
 
 I consistently develop my skills in `.NET` technology, with a particular focus on `backend` and `cloud` solutions. I strive to take on the role of `Senior Developer`, actively seizing every opportunity to deepen my knowledge and professional competencies.
        
+<br>
+
 # Technologies
 <div style="display: flex; flex-wrap: wrap;">
   <img alt="C#" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
