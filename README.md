@@ -35,15 +35,22 @@ I consistently develop my skills in `.NET` technology, with a particular focus o
     </a>
 </div>
 
-## Big projects
+## Eden language
+<div align="left">
+      <a href="https://github.com/EdenLanguage/Eden">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=EdenLanguage&repo=Eden&theme=transparent" alt="Eden" />
+      </a>
+      <a href="https://github.com/EdenLanguage/SpinningDonut">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=EdenLanguage&repo=SpinningDonut&theme=transparent" alt="SpinningDonut" />
+      </a>
+</div>
+
+## Other projects
 <div align="left">
     <a href="https://github.com/DarekKrawczyk/ElectroDepot">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarekKrawczyk&repo=ElectroDepot&theme=transparent" alt="ElectroDepot" />
     </a>
-      <a href="https://github.com/EdenLanguage/Eden">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=EdenLanguage&repo=Eden&theme=transparent" alt="Eden" />
-    </a>
-          <a href="https://github.com/DarekKrawczyk/JustWalk">
+    <a href="https://github.com/DarekKrawczyk/JustWalk">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarekKrawczyk&repo=JustWalk&theme=transparent" alt="JustWalk" />
     </a>
 </div>
