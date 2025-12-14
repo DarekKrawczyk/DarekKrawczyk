@@ -1,37 +1,14 @@
-# About me
+## About me
 
-I consistently develop my skills in `.NET` technology, with a particular focus on `backend` and `cloud` solutions. I strive to take on the role of `Senior Developer`, actively seizing every opportunity to deepen my knowledge and professional competencies.
-       
-<br>
+I am an engineer and a .NET Developer specializing in backend systems. I develop software in .NET, refactor and modernize applications, and work with databases, Azure cloud, and microservices. I am interested in modern software architecture, cloud technologies, embedded systems, and IoT.
 
-# Technologies
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="Assets/C.svg" width=48px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
-  <img src="Assets/Cpp.svg" width=48px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
-  <img src="Assets/DOTNET.svg" width=48px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
-  <img src="Assets/NetCore.svg" width=48px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
-  <img src="Assets/NetMVC.svg" width=48px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
-  <img src="Assets/Azure.svg" width=48px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
-  <img src="Assets/SQL.svg" width=48px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
-  <img src="Assets/SQLite.svg" width=48px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
-  <img src="Assets/CosmosDB.svg" width=48px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
-  <img src="Assets/Docker.svg" width=48px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
-  <img src="Assets/RabbitMQ.svg" width=48px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
-  <img src="Assets/Postman.svg" width=48px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
-  <img src="Assets/Swagger.svg" width=48px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
-  <img src="Assets/VisualStudio.svg" width=48px height="64px" style="margin-right:5px; margin-bottom:5px;"/>
-</div>
-
-<br>
-
-# Projects worth mentioning
 ## Homee System
 <div align="left">
       <a href="https://github.com/HomeeSys/Server">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=HomeeSys&repo=Server&theme=transparent" alt="Server" />
     </a>
-      <a href="https://github.com/HomeeSys/DataGenerator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HomeeSys&repo=DataGenerator&theme=transparent" alt="Data generator" />
+      <a href="https://github.com/HomeeSys/WebClient">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HomeeSys&repo=WebClient&theme=transparent" alt="Data generator" />
     </a>
 </div>
 
@@ -57,16 +34,19 @@ I consistently develop my skills in `.NET` technology, with a particular focus o
 
  ## Embedded
 <div align="left">
-    <a href="https://github.com/DarekKrawczyk/RPi-Pico-Logger">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarekKrawczyk&repo=RPi-Pico-Logger&theme=transparent" alt="RPi-Pico-Logger" />
-    </a>
-      <a href="https://github.com/DarekKrawczyk/MastersThesis" style="padding-right: 10px;">
+  <a href="https://github.com/DarekKrawczyk/RPi-Pico-Logger">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarekKrawczyk&repo=RPi-Pico-Logger&theme=transparent" alt="RPi-Pico-Logger" />
+  </a>
+  <a href="https://github.com/DarekKrawczyk/MastersThesis">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarekKrawczyk&repo=MastersThesis&theme=transparent" alt="MastersThesis" />
   </a>
-    <a href="https://github.com/DarekKrawczyk/Si7021">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarekKrawczyk&repo=Si7021&theme=transparent" alt="Si7021" />
-    </a>
-    <a href="https://github.com/DarekKrawczyk/BMP280">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarekKrawczyk&repo=BMP280&theme=transparent" alt="BMP280" />
-    </a>
+  <a href="https://github.com/DarekKrawczyk/Si7021">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarekKrawczyk&repo=Si7021&theme=transparent" alt="Si7021" />
+  </a>
+  <a href="https://github.com/DarekKrawczyk/BMP280">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarekKrawczyk&repo=BMP280&theme=transparent" alt="BMP280" />
+  </a>
+  <a href="https://github.com/DarekKrawczyk/ADXL345">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarekKrawczyk&repo=ADXL345&theme=transparent" alt="ADXL345" />
+  </a>
 </div>
